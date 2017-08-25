@@ -10,9 +10,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Desction:联系人工具
- * Author:pengjianbo
- * Date:16/7/14 下午4:15
  */
 class ContactsUtils {
 

@@ -3,9 +3,6 @@ package cn.ft.apptest;
 import java.util.ArrayList;
 
 /**
- * Desction:JSON格式化输出
- * Author:pengjianbo
- * Date:15/9/17 下午4:36
  */
 public class JsonFormatUtils {
 

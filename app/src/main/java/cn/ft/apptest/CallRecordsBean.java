@@ -1,9 +1,6 @@
 package cn.ft.apptest;
 
 /**
- * Desction:
- * Author:pengjianbo
- * Date:2017/1/15 AM5:03
  */
 class CallRecordsBean implements Cloneable{
     private String mobile;//对方电话号码
